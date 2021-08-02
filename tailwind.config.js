@@ -6,6 +6,9 @@ module.exports = {
       dropShadow: {
         button: '2px 2px 4px rgba(0, 0, 0, 0.25)',
       },
+      spacing: {
+        100: '30rem',
+      },
     },
     fontFamily: {
       ubuntu: ['Ubuntu'],
